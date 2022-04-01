@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c16cc4c-6745-49cb-8e71-465b0371644b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Classes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c16cc4c-6745-49cb-8e71-465b0371644b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
